@@ -3,9 +3,9 @@ import { Search, Calendar, Users, MessageCircle, CreditCard, MapPin, Phone, Mail
 import emailjs from '@emailjs/browser';
 
 // ══════════════════════════════════════════════════════════════
-const EMAILJS_SERVICE_ID = "YOUR_SERVICE_ID";    // e.g. "service_abc123"
-const EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID";  // e.g. "template_xyz789"
-const EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY";     // e.g. "aBcDeFgHiJkLmN"
+const EMAILJS_SERVICE_ID = "service_m1nqlpl";
+const EMAILJS_TEMPLATE_ID = "template_cqo5qcg";
+const EMAILJS_PUBLIC_KEY = "wY379dyi_pFHLJVl3";
 // ══════════════════════════════════════════════════════════════
 
 
