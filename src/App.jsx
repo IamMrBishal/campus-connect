@@ -436,6 +436,7 @@ export default function CampusConnectApp() {
       {screen === "about" && AboutScreen()}
       {screen === "profile" && ProfileScreen()}
       <div style={{ position: "fixed", bottom: 52, left: "50%", transform: "translateX(-50%)", width: "100%", maxWidth: 430, background: "#fff3cd", padding: "6px 16px", paddingBottom: "max(6px, env(safe-area-inset-bottom, 6px))", fontSize: 10, color: "#856404", textAlign: "center", zIndex: 99, borderTop: "1px solid #ffc10730" }}>This app is for a class assignment and not for commercial purposes.</div>
+      <div style={{ position: "fixed", bottom: 52, left: "50%", transform: "translateX(-50%)", width: "100%", maxWidth: 430, background: "#fff3cd", padding: "6px 16px", fontSize: 10, color: "#856404", textAlign: "center", zIndex: 99, borderTop: "1px solid #ffc10730" }}>This app is for a class assignment and not for commercial purposes.</div>
       {BottomNav()}
     </div>
   );
